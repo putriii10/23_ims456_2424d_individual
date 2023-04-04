@@ -1,4 +1,18 @@
 h1
 {
-    color:palevioletred
+color:fuchsia;
+}
+
+a
+{   
+      text-decoration: none;
+      font-family: Impact;
+      padding: 10px;
+      font-size: 16pt;
+}
+
+a:hover 
+{
+color: darkmagenta;
+font-size: 18pt;
 }
